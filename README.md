@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/firetofficial/tiktok-auto-uploader-selenium">
+  <a href="https://github.com/firetofficial/QuackClaimer">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-white-symbol-glyph-png.png" alt="Logo" width="80" height="80">
   </a>
 
